@@ -1,6 +1,9 @@
 # kaggle-for-korean
 한국인을 위한 캐글 튜토리얼
 
+## Profile
+- https://www.kaggle.com/seriousran/
+
 ## Terminology: kaggle에서 쓰이는 용어들
 - CV = Cros-validation score
 - LB = Leaderboard score
