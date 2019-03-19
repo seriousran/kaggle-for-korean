@@ -7,7 +7,7 @@
 - DAE = Denoising autoencoder
 - VAE = Variational autoencoder
 - [OverSampling/UnderSampling](https://www.kaggle.com/residentmario/undersampling-and-oversampling-imbalanced-data)
-- [OOF](https://stackoverflow.com/questions/52396191/what-is-oof-approach-in-machine-learning)
+- [OOF](https://stackoverflow.com/questions/52396191/what-is-oof-approach-in-machine-learning) = Out-Of-Fold
 - [leak](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/84614)
 - [Stacking](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/84612)
 - [Stacking2](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
