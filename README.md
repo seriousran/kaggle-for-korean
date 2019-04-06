@@ -8,8 +8,8 @@
 
 ## Contents
 1. [Terminology](#terminology): Kaggle의 kernel들과 discussion들을 이해하기 위한 용어 설명
-2. [EDA]: 데이터 시각화와 Feature Engineering (한글로 마땅한 단어를 모르겠네요)
-3. [Models]: 기계 학습과 딥러닝 / 인공지능 모델들에 대해 소개 (Machine Learning and Deep Learning)
+2. [EDA](#eda): 데이터 시각화와 Feature Engineering (한글로 마땅한 단어를 모르겠네요)
+3. [Model](#model): 기계 학습과 딥러닝 / 인공지능 모델들에 대해 소개 (Machine Learning and Deep Learning)
 
 ## Terminology
 : kaggle에서 쓰이는 용어들
@@ -50,7 +50,7 @@
       - dots, lines, bars, pie, ...
 
 
-## Models
+## Model
 - Machine Learning
   - SciKit-Learn
     - Regression
