@@ -62,6 +62,6 @@
   - PyTorch
   - Caffe
   - Theano
+  - Cahiner
   - Keras
     - kaggle의 강자는 keras인 것 같습니다. 코드가 간결하기 때문이죠.
-- bokeh
