@@ -18,16 +18,15 @@
   - 한번의 validation을 통해 얻은 score라면, overfitting일 가능성이 높지만, CV 방식은 좀 더 객관적인 점수를 나타냅니다.
   - 하지만 test dataset으로 계산하지 않은, 로컬한 점수입니다. CV가 LB보다 많이 높을 경우, overfitting으로 간주합니다.
   - ~~Discussion에서 CV는 얼마인데, LB는 얼마가 나온다는 얘기를 많이 볼 수 있습니다.~~
-- LB = Leaderboard score
-  - 
-- DAE = Denoising autoencoder
-- VAE = Variational autoencoder
-- [OverSampling/UnderSampling](https://www.kaggle.com/residentmario/undersampling-and-oversampling-imbalanced-data)
-- [OOF](https://stackoverflow.com/questions/52396191/what-is-oof-approach-in-machine-learning) = Out-Of-Fold
-- [leak](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/84614)
-- [Stacking](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/84612)
-- [Stacking2](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
-- [Target encoding](https://www.kaggle.com/ogrellier/python-target-encoding-for-categorical-features)
+  - LB = Leaderboard score
+  - DAE = Denoising autoencoder
+  - VAE = Variational autoencoder
+  - [OverSampling/UnderSampling](https://www.kaggle.com/residentmario/undersampling-and-oversampling-imbalanced-data)
+  - [OOF](https://stackoverflow.com/questions/52396191/what-is-oof-approach-in-machine-learning) = Out-Of-Fold
+  - [leak](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/84614)
+  - [Stacking](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/84612)
+  - [Stacking2](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+  - [Target encoding](https://www.kaggle.com/ogrellier/python-target-encoding-for-categorical-features)
 
 ## EDA
 : Exploratory Data Analysis
